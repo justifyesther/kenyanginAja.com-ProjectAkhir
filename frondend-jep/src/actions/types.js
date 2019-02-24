@@ -1,0 +1,10 @@
+export const AUTH_LOGIN_SUCCESS = 'a';
+export const AUTH_REGISTER_SUCCESS = 'b';
+export const AUTH_SYSTEM_ERROR = 'c';
+export const AUTH_LOGIN_ERROR = 'd';
+export const AUTH_REGISTER_ERROR = 'e';
+export const AUTH_LOADING = 'f';
+export const LOGOUT = 'g';
+export const COOKIE_CHECKED = 'h';
+export const ACTIVITY_LOG_SUCCESS = 'i';
+export const ACTIVITY_LOG_ERROR = 'j';

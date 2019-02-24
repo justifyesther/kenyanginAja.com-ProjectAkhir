@@ -1,0 +1,1 @@
+export const API_URL_KA = "http://localhost:2000";

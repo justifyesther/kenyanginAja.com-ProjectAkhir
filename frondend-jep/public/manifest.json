@@ -1,0 +1,15 @@
+{
+  "short_name": "kenyanginAja.com",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "faviconJEP.ico",
+      "sizes": "64x66 32x35 24x26 16x20",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
